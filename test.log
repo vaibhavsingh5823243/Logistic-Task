@@ -1,0 +1,24 @@
+2021-09-12 13:57:26,419:Main:(levelname)s:"['# Columns: time'] not found in axis"
+2021-09-12 13:57:26,419:Main:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-12 13:57:26,419:Main:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-12 14:00:17,658:Main:(levelname)s:"['# Columns: time'] not found in axis"
+2021-09-12 14:00:17,658:Main:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-12 14:00:17,658:Main:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-12 14:27:51,889:Main:(levelname)s:'NoneType' object has no attribute 'Lable'
+2021-09-12 14:55:11,426:Main:(levelname)s:object of type 'HandlingMultipleFiles' has no len()
+2021-09-12 14:56:12,485:Main:(levelname)s:'HandlingMultipleFiles' object has no attribute 'Lable'
+2021-09-12 19:43:41,222:Main:(levelname)s:[Errno 13] Permission denied: 'D:\\Machine Learning Live Class\\Logistic Regression\\AReM\\bending1\\dataset1.csv'
+2021-09-12 19:43:49,882:Main:(levelname)s:[Errno 13] Permission denied: 'D:\\Machine Learning Live Class\\Logistic Regression\\AReM\\bending1\\dataset1.csv'
+2021-09-12 20:06:28,088:Main:(levelname)s:The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2021-09-12 20:06:28,088:Main:(levelname)s:The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2021-09-12 20:06:28,103:Main:(levelname)s:The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2021-09-12 20:06:28,103:Main:(levelname)s:The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2021-09-12 20:06:28,103:Main:(levelname)s:The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2021-09-12 20:06:28,103:Main:(levelname)s:The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2021-09-12 20:06:28,119:Main:(levelname)s:The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2021-09-12 20:06:28,119:Main:(levelname)s:The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2021-09-12 20:06:28,119:Main:(levelname)s:The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2021-09-12 20:50:24,678:Main:(levelname)s:ufunc 'isfinite' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+2021-09-12 20:51:12,508:Main:(levelname)s:ufunc 'isfinite' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+2021-09-12 21:02:30,280:Main:(levelname)s:[WinError 3] The system cannot find the path specified: 'Logistic Regression\\AReM'
+2021-09-12 21:03:29,679:Main:(levelname)s:[WinError 3] The system cannot find the path specified: 'Logistic Regression Task\\AReM'
