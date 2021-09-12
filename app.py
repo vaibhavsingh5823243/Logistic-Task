@@ -24,9 +24,9 @@ def form():
             scaler=pickle.load(f)
             feature=scaler.transform(feature)
         result=model_obj.predict(feature)
-        result=data_preprocessing.change_target(int(result[0]),num_to_cat=True)
+        #result=data_preprocessing.change_target(int(result[0]),num_to_cat=True)
 
-        return f"<p>{result}</p>"
+        return result #f"<p>{result}</p>"
     return render_template('form.html')
 @app.route('/visualization/')
 def visualize():
