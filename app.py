@@ -25,8 +25,8 @@ def form():
             feature=scaler.transform(feature)
         result=model_obj.predict(feature)
         #result=data_preprocessing.change_target(int(result[0]),num_to_cat=True)
-
-        return f"{result[0]}" #f"<p>{result}</p>"
+        feature=data['Lable'].unique()
+        return f"{feature[result]}" #f"<p>{result}</p>"
     return render_template('form.html')
 @app.route('/visualization/')
 def visualize():
