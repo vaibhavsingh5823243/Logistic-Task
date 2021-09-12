@@ -183,7 +183,7 @@ class DataPreprocessing:
         :return: return the changed value
         """
         try:
-            values=self.data.Lable.unique()
+            values=['bending1','bending2','cycling','lying','sitting','standing','walking']
             if num_to_cat:
                 return values[val]
             else:
