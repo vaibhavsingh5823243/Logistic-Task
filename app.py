@@ -26,7 +26,7 @@ def form():
         result=model_obj.predict(feature)
         #result=data_preprocessing.change_target(int(result[0]),num_to_cat=True)
 
-        return result[0] #f"<p>{result}</p>"
+        return f"{result[0]}" #f"<p>{result}</p>"
     return render_template('form.html')
 @app.route('/visualization/')
 def visualize():
